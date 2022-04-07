@@ -1,0 +1,21 @@
+body {
+	font-family: monospace;
+	width: -webkit-fit-content;
+	width: -moz-fit-content;
+	width: fit-content;
+	margin: 10em auto;
+}
+div {
+	margin: 1em 0;
+}
+.i {
+	height: 1.5em;
+	width: 1.5em;
+	border-radius: 50%;
+	border: 3px solid #777;
+	display: inline-block;
+	vertical-align: middle;
+}
+.l {
+	font-weight: bold;
+}
